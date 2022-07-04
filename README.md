@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuj-Bhagat
 - 👀 I’m interested in Python programming, Data Science, Machine Learning, Deep learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, C# and ASP.Net 
 - 📫 You can contact on me on my mail anujbhagat2000@gmail.com
 
 <!---
